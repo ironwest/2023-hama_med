@@ -1,8 +1,3 @@
----
-title: "事前準備"
-format: html
----
-
 ## 講義に利用したパッケージ
 
 * tidyverse 1.3.2
